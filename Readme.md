@@ -1,1 +1,35 @@
+This project is a simple imitation of Instagram
+
 Click to see the project - https://m00n41ld.github.io/2067507-kekstagram-27/
+
+What can this page do? 
+
+It can load pictures from server and dynamicly draw a grid layout. 
+If you click on the preveiw of the picture, you will see fullsize photo, also you can see comments that also is loading from server.
+
+There is only one parent Eventlistener on preview images, so it will not clog the memory. 
+
+You can use ESC to close any modal. 
+
+There are also 3 type of filters: default, random, and most liked 
+
+![image](https://user-images.githubusercontent.com/105647939/221516493-54ca4a6f-7595-4799-92e8-a3add6b63c77.png)
+
+You can also send to the server photo of your choice by clicking this icon 
+
+![image](https://user-images.githubusercontent.com/105647939/221516786-ea43992f-f78d-4c59-9c65-9532e3284be8.png)
+
+You can change size of your pic and add some filters 
+
+![image](https://user-images.githubusercontent.com/105647939/221517026-5459e4b1-4335-443f-8900-8066a03b8018.png)
+
+Range is made with noUiSlider library.
+
+There is a validator that shows you how many of tags and wht tags you can apply. 
+If you tags are not right this form will not be sent until you fix it. 
+
+![image](https://user-images.githubusercontent.com/105647939/221517714-3367344e-237d-4a9e-b065-f50573cc8fe9.png)
+
+If everything is corrent and your photo has been sent, you will see a message
+
+![image](https://user-images.githubusercontent.com/105647939/221517909-9be07dde-3c3e-4880-b56e-77cf21f5fa33.png)
