@@ -5,7 +5,8 @@ Click to see the project - https://m00n41ld.github.io/2067507-kekstagram-27/
 What can this page do? 
 
 It can load pictures from server and dynamicly draw a grid layout. 
-If you click on the preveiw of the picture, you will see fullsize photo, also you can see comments that also is loading from server.
+
+If you click on the preveiw of the picture, you will see fullsize photo, also you can see comments and likes that are also loading from server.
 
 There is only one parent Eventlistener on preview images, so it will not clog the memory. 
 
