@@ -4,7 +4,7 @@ Click to see the project - https://m00n41ld.github.io/2067507-kekstagram-27/
 
 What can this page do? 
 
-It can load pictures from server and dynamicly draw a grid layout. 
+It can load pictures from server and dynamically draw a grid layout. 
 
 If you click on the preveiw of the picture, you will see fullsize photo, also you can see comments and likes that are loading from server.
 
