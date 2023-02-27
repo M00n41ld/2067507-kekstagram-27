@@ -31,6 +31,8 @@ If you tags are not right this form will not be sent until you fix it.
 
 ![image](https://user-images.githubusercontent.com/105647939/221517714-3367344e-237d-4a9e-b065-f50573cc8fe9.png)
 
+*Validation is made using Pristine Validator*
+
 If everything is corrent and your photo has been sent, you will see a message
 
 ![image](https://user-images.githubusercontent.com/105647939/221517909-9be07dde-3c3e-4880-b56e-77cf21f5fa33.png)
