@@ -24,7 +24,7 @@ You can change size of your pic and add some filters
 
 ![image](https://user-images.githubusercontent.com/105647939/221517026-5459e4b1-4335-443f-8900-8066a03b8018.png)
 
-Range is made with noUiSlider library.
+*Range is made with noUiSlider library.*
 
 There is a validator that shows you how many of tags and wht tags you can apply. 
 If you tags are not right this form will not be sent until you fix it. 
