@@ -12,7 +12,7 @@ There is only one parent Eventlistener on preview images, so it will not clog th
 
 You can use ESC to close any modal. 
 
-There are also 3 type of filters: default, random, and most liked 
+There are 3 type of filters: default, random, and most liked. Filter the feed however you like.
 
 ![image](https://user-images.githubusercontent.com/105647939/221516493-54ca4a6f-7595-4799-92e8-a3add6b63c77.png)
 
