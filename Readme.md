@@ -1,6 +1,6 @@
 This project is a simple imitation of Instagram
 
-Click to see the project - https://m00n41ld.github.io/2067507-kekstagram-27/
+Click to see the project - https://m00n41ld.github.io/Kekstagram/
 
 What can this page do? 
 
